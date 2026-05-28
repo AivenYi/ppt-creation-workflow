@@ -27,7 +27,7 @@
 
 ### 安装
 
-1. 在 WorkBuddy 中安装本 skill
+1. 在 OpenClaw、Qclaw、ArkClaw、KimiClaw、CodeX、Claude Code、WorkBuddy 或其他Agent/龙虾平台中安装本 skill
 2. 不需要任何额外配置
 
 ### 使用
@@ -83,10 +83,13 @@ ppt-creation-workflow/
 
 ## 👤 作者
 
-**Wayen（易海）**
+**Aiven Yi**
 
-- 📧 邮箱：2904447373@qq.com
-- 🎓 江西软件职业技术大学 B230708 班
+- 📧 邮箱：aivenyi5241@gmail.com
+- 🎓 WaytoAGI江西组织者
+- 添加微信
+- <img width="928" height="1380" alt="1d9afca3a9e4fb6133a7fe2ea85e500d" src="https://github.com/user-attachments/assets/6d7c6178-eda4-491f-bdd3-089be3643498" />
+
 
 ---
 
